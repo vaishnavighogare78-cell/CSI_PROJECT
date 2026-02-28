@@ -1,7 +1,4 @@
 
-  # Enhance Skin Cancer Detection UI
-
-  This is a code bundle for Enhance Skin Cancer Detection UI. The original project is available at https://www.figma.com/design/4T09Cq5ypO3jpsdTWMjVqA/Enhance-Skin-Cancer-Detection-UI.
 
   ## Running the code
 
